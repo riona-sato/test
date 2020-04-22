@@ -3,3 +3,8 @@ h1{
     color: green;
     font-family: serif;
 }
+p{
+    font-size: 15px;
+    background-color: crimson;
+    font-family: sans-serif;
+}
